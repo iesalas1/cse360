@@ -8,7 +8,7 @@ package cse360assign2;
 
 /*
 This class is an adding machine which has an int total, a constructor
-getTotal, and 4 methods that act as operators of the adding machine. 
+getTotal, and 4 methods. 
  */
 public class AddingMachine 
 {
